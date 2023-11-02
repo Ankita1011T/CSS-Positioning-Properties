@@ -1,0 +1,70 @@
+html{
+    background-color:floralwhite
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+div{
+    height: 200px;
+    width: 200px;
+    border:2px solid black;
+    display:inline-block;
+}
+#box1{
+    background-image: url(nature\ love.jpg);
+    background-size: cover;
+    color:blue;
+    font-size:larger;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    text-decoration: underline;
+    position: fixed;
+    top:100px;
+    left:110px;
+    text-align: center;
+
+}
+#box2{
+    background-image:url(hello\ kitty.jpg) ;
+    background-size: cover;
+    color:crimson;
+    font-size: larger;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    text-decoration: underline;
+    position: fixed;
+    top: 400px;
+    right:191px;
+    text-align: center;
+}
+#box3{
+    background-image: url(doggy.jpg);
+    background-size: cover;
+    color:crimson;
+    font-size: larger;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    text-decoration: underline;
+    position: fixed;
+    top: 400px;
+    left:110px;
+    text-align: center;
+}
+#box4{
+    background-image:url(water.jpg) ;
+    background-size: cover;
+    color:azure;
+    font-size: larger;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    text-decoration: underline;
+    position: fixed;
+    top: 100px;
+    right:191px;
+    text-align: center;
+}
